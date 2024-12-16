@@ -82,6 +82,9 @@ To set up the project locally, follow these steps:
 - Experiment with deep learning models for further enhancement.
 - Deploy the model as a real-time fraud detection system.
 
+## Data
+The data used in this project can be found [here](https://drive.google.com/drive/folders/1mEqyaX8K5dzxs5AbfsdLYqw8pM2FTk3O?usp=drive_link).
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
 
