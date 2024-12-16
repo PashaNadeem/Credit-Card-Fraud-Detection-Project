@@ -85,9 +85,6 @@ To set up the project locally, follow these steps:
 ## Contributing
 Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
-For questions or suggestions, please reach out to [your-email@example.com].
+For questions or suggestions, please reach out to nadeemasha9598@gmail.com
 
