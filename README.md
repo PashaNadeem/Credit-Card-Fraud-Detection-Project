@@ -53,7 +53,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/credit-card-fraud-detection.git
+   git clone https://github.com/PashaNadeem/credit-card-fraud-detection.git
    ```
 
 2. **Navigate to the Project Directory**:
